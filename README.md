@@ -44,7 +44,7 @@ GUI application demonstrating the work of parallel threads.
 4. Run the application:
 
 ```bash
-git clone https://github.com/username/demo_parallel.git
+git clone https://github.com/tanatolog/thread-sync-visualizer.git
 cd demo_parallel
 cargo build --release
 cargo run
